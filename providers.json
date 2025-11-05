@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Amit Electricals", "service": "Electrical", "rating": 4.6, "phone": "9000000001", "avg_charge": 800},
+  {"id": 2, "name": "Ravi Painters", "service": "Painting", "rating": 4.4, "phone": "9000000002", "avg_charge": 2500},
+  {"id": 3, "name": "Soni Plumbers", "service": "Plumbing", "rating": 4.5, "phone": "9000000003", "avg_charge": 1200},
+  {"id": 4, "name": "Dream Carpentry", "service": "Carpentry", "rating": 4.3, "phone": "9000000004", "avg_charge": 2000},
+  {"id": 5, "name": "Cool AC Services", "service": "AC Service", "rating": 4.7, "phone": "9000000005", "avg_charge": 900},
+  {"id": 6, "name": "Modish Renovators", "service": "Renovation", "rating": 4.2, "phone": "9000000006", "avg_charge": 15000}
+]
