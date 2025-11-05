@@ -45,4 +45,23 @@ It lets users estimate costs for painting, plumbing, tiling, and other services 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+SmartRenovation/
+├── main.py
+├── estimator.py
+├── train_model.py
+├── make_icons.py
+├── providers.json
+├── assets/
+│ ├── bg_home.png
+│ ├── logo.png
+│ └── uploads/
+├── models/
+│ ├── model.joblib
+│ └── material_model.joblib
+├── data/
+│ ├── providers.json
+│ └── records.csv
+├── db/
+│ └── app_data.db
+└── README.md
