@@ -1,5 +1,4 @@
-#  Smart Renovation — Aesthetic Maintenance & Estimation App
-
+#  Smart Renovation 
 Smart Renovation is a Kivy-based desktop/mobile app that simplifies **home renovation and maintenance**.  
 It lets users estimate costs for painting, plumbing, tiling, and other services with a clean, dark aesthetic UI.
 
