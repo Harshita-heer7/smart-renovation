@@ -1,0 +1,27 @@
+# Core GUI framework
+kivy==2.3.1
+
+# Optional Kivy dependencies (for smooth graphics & inputs)
+kivy-deps.angle==0.4.0
+kivy-deps.glew==0.3.1
+kivy-deps.sdl2==0.8.0
+
+# Data handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine Learning (for model.joblib integration)
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Image handling for previews & avatars
+Pillow==10.4.0
+
+# Database and CSV management (built-in: sqlite3, csv)
+# No need to install — included with Python
+
+# Animation & UI experience (optional extras)
+matplotlib==3.9.2
+
+# Optional but recommended for smoother Kivy performance
+cython==3.0.10
